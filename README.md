@@ -13,3 +13,9 @@ your site configuration　file: config.toml:
 ```
 theme:                      "ThemeName"
 ```
+
+### Deply to Github
+
+#### with custom domain:
+- CNAME file with one line of your www.ranli.me
+- Added the custom domain in settings in github
