@@ -4,7 +4,8 @@ author = "Ran Li"
 # Shown in the side menu
 copyright = "&copy; 2016. All rights reserved."
 canonifyurls = true
-paginate = 10
+paginate = 5
+baseurl = "ranli.com"
 
 [indexes]
   tag = "tags"
@@ -39,6 +40,18 @@ paginate = 10
     weight = 1
     identifier = "post"
     url = "/post/"
+  [[menu.main]]
+    name = "Topics"
+    pre = "<i class='fa fa-folder fa-fw'></i>"
+    weight = 3
+    identifier = "topic"
+    url = "/topics/"
+  [[menu.main]]
+    name = "Tags"
+    pre = "<i class='fa fa-tags fa-fw'></i>"
+    weight = 4
+    identifier = "tag"
+    url = "/tags/"
   [[menu.main]]
     name = "About"
     pre = "<i class='fa fa-user fa-fw'></i>"
