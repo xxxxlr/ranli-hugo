@@ -3,9 +3,8 @@ date = "2016-10-15T18:53:57-04:00"
 description = ""
 draft = false
 tags = []
-title = "unity 101"
+title = "Unity 101"
 topics = []
-
 +++
 
 # What you want to do?

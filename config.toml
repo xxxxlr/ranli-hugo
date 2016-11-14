@@ -1,11 +1,12 @@
-theme="blackburn"
+theme="hugo-creative-portfolio-theme"
+# theme="hugo-creative-portfolio-theme"
 title = "source .trueth.sh"
 author = "Ran Li"
 # Shown in the side menu
 copyright = "&copy; 2016. All rights reserved."
 canonifyurls = true
 paginate = 5
-baseurl = "ranli.com"
+baseurl = "http://ranli.com"
 
 [indexes]
   tag = "tags"
@@ -59,11 +60,17 @@ baseurl = "ranli.com"
     identifier = "about"
     url = "/about/"
   [[menu.main]]
+    name = "Projects"
+    pre = "<i class='fa fa-folder-open'></i>"
+    weight = 2
+    identifier = "projects"
+    url = "/projects/"
+  [[menu.main]]
     name = "Contact"
     pre = "<i class='fa fa-phone fa-fw'></i>"
     weight = 3
     url = "/contact/"
-    
+
 
 # optional
 [social]

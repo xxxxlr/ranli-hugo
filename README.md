@@ -3,6 +3,8 @@
 $ hugo server
 
 $ hugo server --buildDrafts
+
+$ hugo new post/the-name.md
 ```
 
 Go to :http://localhost:1313/

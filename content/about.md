@@ -9,6 +9,4 @@ sidemenu = "true"
 
 My name is 李冉(Ran Li). 20/26 * my-life-in-China, 6/26 * my-life-in-US
 
-Software Engineer, Web application developer.
-
-
+I build applications for ideas.

@@ -2,7 +2,7 @@
 date = "2016-10-15T18:24:35-04:00"
 description = ""
 draft = false
-tags = [""]
+tags = []
 title = "Hackathon, the how, why and what"
 topics = ["method"]
 
@@ -21,7 +21,7 @@ Extremely limited resource, normally 2 days with only 3-5 teamates working with 
 ## Why
 - There's no better situation and stage that is tailered for training the ability of conflict resolving between teammates and peacefully consolidate to a shared plan.
 
-- There's no better jump starter when you can work with someone who has done related work for a while, either from teammates or the evengelists on site. 
+- There's no better jump starter when you can work with someone who has done related work for a while, either from teammates or the evengelists on site.
 
 - There's very less long term consiqunciese.
 
@@ -31,4 +31,3 @@ Extremely limited resource, normally 2 days with only 3-5 teamates working with 
 - presentation skills
 - friends made
 - team management flow
-

@@ -21,14 +21,14 @@ topics = ["writing"]
 
 ## What
 - Technology/Science
-- My's behavior
+- My behavior
 
 ## What I am expecting to gain
 - Make things clear
 - Keep myself honest and consistant
 
 
-## :
+## About words
 
-> 话没有说出去之前你是话的主人，话说出去之后你便是他的奴隶
+> 话没有说出去之前你是话的主人，话说出去之后你便是他的奴隶(If you have said it, you own them. Once you do, they own you)
 > -- <cite>wo ting 冯仑 shuo de</cite>
